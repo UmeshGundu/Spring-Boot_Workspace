@@ -1,0 +1,5 @@
+1,mechanical,200000
+2,computers,300000
+3,civil,100000
+4,chemical,200000
+5,IT,200000

@@ -1,0 +1,5 @@
+1,Java,20000
+2,Python,15000
+3,SpringBoot,8000
+4,DevOps,16000
+5,JRTP,5000

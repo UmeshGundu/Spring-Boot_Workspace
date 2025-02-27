@@ -1,0 +1,14 @@
+package in.ashokit.test;
+
+import in.ashokit.beans.Calculator;
+
+public class CalculatorTest {
+
+	public void testAdd() {
+		Calculator c = new Calculator();
+
+		int actualResult = c.add(10, 20);
+		int expectedResult = 30;
+	}
+
+}

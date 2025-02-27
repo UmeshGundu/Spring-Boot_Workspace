@@ -1,0 +1,2095 @@
+!SESSION 2025-02-24 12:31:09.525 -----------------------------------------------
+eclipse.buildId=4.25.0.202409101855
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2025-02-24 12:33:04.283
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-02-24 12:33:13.145
+!MESSAGE Logback config file: D:\SpringBoot--Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-02-24 12:33:14.304
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-02-24 12:33:14.304
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-02-24 12:33:14.982
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-02-24 12:33:14.982
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-02-24 12:33:22.837
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Umesh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:22.813
+!MESSAGE Classpath changed for project: 22_JSON_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.773
+!MESSAGE Classpath changed for project: 01_SpringBoo_DataJPA_Demo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.774
+!MESSAGE Classpath changed for project: 01_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.775
+!MESSAGE Classpath changed for project: 02_SpringBoo_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.776
+!MESSAGE Classpath changed for project: 02_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.777
+!MESSAGE Classpath changed for project: 02_Spring_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.778
+!MESSAGE Classpath changed for project: 03_Spring_IOC_DI_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.779
+!MESSAGE Classpath changed for project: 04_AutoWiring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.780
+!MESSAGE Classpath changed for project: 05_IOC_DI_Autowiring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.781
+!MESSAGE Classpath changed for project: 06_SpringJDBC_App_Pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.782
+!MESSAGE Classpath changed for project: 06_SpringJDBC_Assignment_App2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.783
+!MESSAGE Classpath changed for project: 08_SpringBoo_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.784
+!MESSAGE Classpath changed for project: 09_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.784
+!MESSAGE Classpath changed for project: 10_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.785
+!MESSAGE Classpath changed for project: 12_SpringBoot_DataJPA_H2_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.791
+!MESSAGE Classpath changed for project: 13_SpringBoot_DataJPA_TxMngment_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.791
+!MESSAGE Classpath changed for project: 14_SpringBoot_DataJPA_OneToOne_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.792
+!MESSAGE Classpath changed for project: 17_SpringBoot_WebMVC_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.794
+!MESSAGE Classpath changed for project: 17_SpringBoot_WebMVC_App1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.795
+!MESSAGE Classpath changed for project: 18_SpringBoot_WebMVC_App2_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.796
+!MESSAGE Classpath changed for project: 19_SpringBoot_WebMVC_App3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.797
+!MESSAGE Classpath changed for project: 20_SpringBoot_WebMVC_Session_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.798
+!MESSAGE Classpath changed for project: 21_SpringBoot_Email_Sending_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.799
+!MESSAGE Classpath changed for project: 22_JSON_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.800
+!MESSAGE Classpath changed for project: 23_SpringBoot_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.800
+!MESSAGE Classpath changed for project: 24_SpringBoot_Product_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.801
+!MESSAGE Classpath changed for project: 25_SpringBoot_RestAPI_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.802
+!MESSAGE Classpath changed for project: 26_SpringBoot_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.803
+!MESSAGE Classpath changed for project: 27_SB_WebClient_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.804
+!MESSAGE Classpath changed for project: 28_SB_RestApi_Ex_Handling_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.804
+!MESSAGE Classpath changed for project: 29_MS_Service_Registry_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.805
+!MESSAGE Classpath changed for project: 30_MS_Admin_Server_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.806
+!MESSAGE Classpath changed for project: 31_Welcome_MS_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.807
+!MESSAGE Classpath changed for project: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.808
+!MESSAGE Classpath changed for project: 37_App_Properties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.809
+!MESSAGE Classpath changed for project: 38_SpringBatch_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.809
+!MESSAGE Classpath changed for project: 39_Spring_Security_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.811
+!MESSAGE Classpath changed for project: 39_Spring_Security_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.812
+!MESSAGE Classpath changed for project: 41_SpringBoot_OAuth2.0_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.813
+!MESSAGE Classpath changed for project: 42_SpringBoot_Redis_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.814
+!MESSAGE Classpath changed for project: 43_SpringBoot_Kafka_Consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:24.815
+!MESSAGE Classpath changed for project: 43_SpringBoot_Kafka_Producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.282
+!MESSAGE Classpath changed for project: 01_SpringBoo_DataJPA_Demo_App-Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.283
+!MESSAGE Classpath changed for project: 06.1_SpringJDBC_Assignment_App_Pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.285
+!MESSAGE Classpath changed for project: 06_SpringJDBC_Assignment_App_pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.286
+!MESSAGE Classpath changed for project: 09_SpringBoot_DataJPA_JpaRepo_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.286
+!MESSAGE Classpath changed for project: 11_SpringBoot_DataJPA_CustomGenerators_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.288
+!MESSAGE Classpath changed for project: 13_SpringBoot_DataJPA_TxMngment_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.288
+!MESSAGE Classpath changed for project: 15_SpringBoot_DataJPA_OneToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.289
+!MESSAGE Classpath changed for project: 16_SpringBoot_DataJPA_ManyToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.290
+!MESSAGE Classpath changed for project: 20_SpringBoot_WebMVC_HttpSession_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.291
+!MESSAGE Classpath changed for project: 25_SpringBoot_Rest_API_DataJPA_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:29.291
+!MESSAGE Classpath changed for project: 40_SpringSecurity_Login_registration_App
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:50.633
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:50.674
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:50.793
+!MESSAGE Classpath changed for project: 01_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:50.794
+!MESSAGE Boot project ADDED: 01_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:50.795
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:50.830
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-24 12:34:50.923
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\sts-4.25.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/SpringBoot--Workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1740380690921
+-Dlanguageserver.hover-timeout=225
+-jar
+D:\sts-4.25.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.57.0.202409101848\servers\spring-boot-language-server\spring-boot-language-server-1.57.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:50.923
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-24 12:34:50.940
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4748
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:51.884
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:51.896
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:52.744
+!MESSAGE Classpath changed for project: 02_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:52.745
+!MESSAGE Boot project ADDED: 02_Spring_App
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:52.844
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:52.860
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:53.813
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:53.828
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:54.386
+!MESSAGE Classpath changed for project: 02_Spring_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:54.387
+!MESSAGE Boot project ADDED: 02_Spring_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:54.387
+!MESSAGE Classpath changed for project: 03_Spring_IOC_DI_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:54.387
+!MESSAGE Boot project ADDED: 03_Spring_IOC_DI_App
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:55.303
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:55.318
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:56.007
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:56.018
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:56.105
+!MESSAGE Classpath changed for project: 04_AutoWiring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:56.106
+!MESSAGE Boot project ADDED: 04_AutoWiring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:56.107
+!MESSAGE Classpath changed for project: 05_IOC_DI_Autowiring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:56.108
+!MESSAGE Boot project ADDED: 05_IOC_DI_Autowiring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:56.273
+!MESSAGE Classpath changed for project: 02_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:56.418
+!MESSAGE Classpath changed for project: 02_Spring_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:56.549
+!MESSAGE Classpath changed for project: 01_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:34:56.670
+!MESSAGE Classpath changed for project: 03_Spring_IOC_DI_App
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:56.923
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:56.934
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.049
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.060
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.184
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.194
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.311
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.321
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.437
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.449
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.573
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:34:57.582
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:21.788
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:21.801
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:21.845
+!MESSAGE Classpath changed for project: 06.1_SpringJDBC_Assignment_App_Pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:21.849
+!MESSAGE Boot project ADDED: 06.1_SpringJDBC_Assignment_App_Pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:21.908
+!MESSAGE Classpath changed for project: 06.1_SpringJDBC_Assignment_App_Pratice
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:22.204
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:22.219
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:22.914
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:22.923
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:24.445
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:24.459
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:24.506
+!MESSAGE Classpath changed for project: 06_SpringJDBC_Assignment_App2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:24.508
+!MESSAGE Boot project ADDED: 06_SpringJDBC_Assignment_App2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:24.818
+!MESSAGE Classpath changed for project: 06_SpringJDBC_Assignment_App2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:24.819
+!MESSAGE Classpath changed for project: 06.1_SpringJDBC_Assignment_App_Pratice
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:25.244
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:25.256
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:25.968
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:25.977
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:26.358
+!MESSAGE Classpath changed for project: 06_SpringJDBC_Assignment_App_pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:26.360
+!MESSAGE Boot project ADDED: 06_SpringJDBC_Assignment_App_pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:26.643
+!MESSAGE Classpath changed for project: 06_SpringJDBC_Assignment_App2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:35:26.941
+!MESSAGE Classpath changed for project: 06_SpringJDBC_Assignment_App_pratice
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:27.285
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:35:27.295
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:21.960
+!MESSAGE Classpath changed for project: 08_SpringBoo_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:21.961
+!MESSAGE Boot project ADDED: 08_SpringBoo_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:29.235
+!MESSAGE Classpath changed for project: 09_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:29.236
+!MESSAGE Boot project ADDED: 09_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:34.031
+!MESSAGE Classpath changed for project: 09_SpringBoot_DataJPA_JpaRepo_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:34.032
+!MESSAGE Boot project ADDED: 09_SpringBoot_DataJPA_JpaRepo_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:37.347
+!MESSAGE Classpath changed for project: 10_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:37.348
+!MESSAGE Boot project ADDED: 10_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:40.910
+!MESSAGE Classpath changed for project: 11_SpringBoot_DataJPA_CustomGenerators_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:40.911
+!MESSAGE Boot project ADDED: 11_SpringBoot_DataJPA_CustomGenerators_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:45.044
+!MESSAGE Classpath changed for project: 12_SpringBoot_DataJPA_H2_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:45.045
+!MESSAGE Boot project ADDED: 12_SpringBoot_DataJPA_H2_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:49.189
+!MESSAGE Classpath changed for project: 13_SpringBoot_DataJPA_TxMngment_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:49.190
+!MESSAGE Boot project ADDED: 13_SpringBoot_DataJPA_TxMngment_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:52.624
+!MESSAGE Classpath changed for project: 14_SpringBoot_DataJPA_OneToOne_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:52.625
+!MESSAGE Boot project ADDED: 14_SpringBoot_DataJPA_OneToOne_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:56.303
+!MESSAGE Classpath changed for project: 15_SpringBoot_DataJPA_OneToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:36:56.304
+!MESSAGE Boot project ADDED: 15_SpringBoot_DataJPA_OneToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:03.127
+!MESSAGE Classpath changed for project: 16_SpringBoot_DataJPA_ManyToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:03.129
+!MESSAGE Boot project ADDED: 16_SpringBoot_DataJPA_ManyToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:26.025
+!MESSAGE Classpath changed for project: 12_SpringBoot_DataJPA_H2_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:27.888
+!MESSAGE Classpath changed for project: 08_SpringBoo_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:29.720
+!MESSAGE Classpath changed for project: 11_SpringBoot_DataJPA_CustomGenerators_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:31.588
+!MESSAGE Classpath changed for project: 09_SpringBoot_DataJPA_JpaRepo_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:33.432
+!MESSAGE Classpath changed for project: 13_SpringBoot_DataJPA_TxMngment_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:37.013
+!MESSAGE Classpath changed for project: 10_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:43.128
+!MESSAGE Classpath changed for project: 09_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:47.654
+!MESSAGE Classpath changed for project: 17_SpringBoot_WebMVC_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:37:47.655
+!MESSAGE Boot project ADDED: 17_SpringBoot_WebMVC_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:04.342
+!MESSAGE Classpath changed for project: 12_SpringBoot_DataJPA_H2_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:10.082
+!MESSAGE Classpath changed for project: 17_SpringBoot_WebMVC_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:18.579
+!MESSAGE Classpath changed for project: 17_SpringBoot_WebMVC_App1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:18.581
+!MESSAGE Boot project ADDED: 17_SpringBoot_WebMVC_App1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:20.485
+!MESSAGE Classpath changed for project: 18_SpringBoot_WebMVC_App2_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:20.486
+!MESSAGE Boot project ADDED: 18_SpringBoot_WebMVC_App2_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:24.484
+!MESSAGE Classpath changed for project: 19_SpringBoot_WebMVC_App3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:24.486
+!MESSAGE Boot project ADDED: 19_SpringBoot_WebMVC_App3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:26.389
+!MESSAGE Classpath changed for project: 20_SpringBoot_WebMVC_HttpSession_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:26.390
+!MESSAGE Boot project ADDED: 20_SpringBoot_WebMVC_HttpSession_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:27.943
+!MESSAGE Classpath changed for project: 20_SpringBoot_WebMVC_Session_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:27.944
+!MESSAGE Boot project ADDED: 20_SpringBoot_WebMVC_Session_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:30.469
+!MESSAGE Classpath changed for project: 21_SpringBoot_Email_Sending_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:30.480
+!MESSAGE Boot project ADDED: 21_SpringBoot_Email_Sending_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:30.562
+!MESSAGE Classpath changed for project: 21_SpringBoot_Email_Sending_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:31.905
+!MESSAGE Classpath changed for project: 21_SpringBoot_Email_Sending_App
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:38:35.220
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:38:35.232
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:36.656
+!MESSAGE Classpath changed for project: 22_JSON_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:38.784
+!MESSAGE Classpath changed for project: 23_SpringBoot_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:38.785
+!MESSAGE Boot project ADDED: 23_SpringBoot_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:45.689
+!MESSAGE Classpath changed for project: 24_SpringBoot_Product_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:45.700
+!MESSAGE Boot project ADDED: 24_SpringBoot_Product_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:45.777
+!MESSAGE Classpath changed for project: 24_SpringBoot_Product_Rest_API
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:38:46.050
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-02-24 12:38:46.057
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:49.015
+!MESSAGE Classpath changed for project: 25_SpringBoot_RestAPI_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:49.016
+!MESSAGE Boot project ADDED: 25_SpringBoot_RestAPI_DataJPA_App
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:38:50.188
+!MESSAGE Could not download sources for org.webjars:swagger-ui:5.18.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:swagger-ui:jar:sources:5.18.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.webjars:swagger-ui:jar:sources:5.18.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:38:50.190
+!MESSAGE Could not resolve artifact org.webjars:swagger-ui:jar:sources:5.18.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:38:50.190
+!MESSAGE Missing org.webjars:swagger-ui:jar:sources:5.18.3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:51.238
+!MESSAGE Classpath changed for project: 25_SpringBoot_Rest_API_DataJPA_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:51.239
+!MESSAGE Boot project ADDED: 25_SpringBoot_Rest_API_DataJPA_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:52.042
+!MESSAGE Classpath changed for project: 24_SpringBoot_Product_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:55.757
+!MESSAGE Classpath changed for project: 26_SpringBoot_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:38:55.758
+!MESSAGE Boot project ADDED: 26_SpringBoot_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:00.495
+!MESSAGE Classpath changed for project: 27_SB_WebClient_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:00.505
+!MESSAGE Boot project ADDED: 27_SB_WebClient_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:00.578
+!MESSAGE Classpath changed for project: 27_SB_WebClient_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:03.953
+!MESSAGE Classpath changed for project: 28_SB_RestApi_Ex_Handling_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:03.954
+!MESSAGE Boot project ADDED: 28_SB_RestApi_Ex_Handling_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:34.590
+!MESSAGE Classpath changed for project: 27_SB_WebClient_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:48.169
+!MESSAGE Classpath changed for project: 29_MS_Service_Registry_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:48.170
+!MESSAGE Boot project ADDED: 29_MS_Service_Registry_App
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:39:53.239
+!MESSAGE Could not download javadoc for org.webjars:swagger-ui:5.18.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:swagger-ui:jar:javadoc:5.18.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.webjars:swagger-ui:jar:javadoc:5.18.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:39:53.239
+!MESSAGE Could not resolve artifact org.webjars:swagger-ui:jar:javadoc:5.18.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:39:53.239
+!MESSAGE Missing org.webjars:swagger-ui:jar:javadoc:5.18.3
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:39:53.365
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:4.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:4.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:39:53.366
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:4.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:39:53.366
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:sources:4.2.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:39:53.577
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter:4.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:sources:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter:jar:sources:4.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:39:53.577
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter:jar:sources:4.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:39:53.577
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter:jar:sources:4.2.0
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:57.239
+!MESSAGE Classpath changed for project: 30_MS_Admin_Server_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:39:57.240
+!MESSAGE Boot project ADDED: 30_MS_Admin_Server_App
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:39:59.291
+!MESSAGE Could not download sources for xmlpull:xmlpull:1.1.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpull:jar:sources:1.1.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing xmlpull:xmlpull:jar:sources:1.1.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:39:59.292
+!MESSAGE Could not resolve artifact xmlpull:xmlpull:jar:sources:1.1.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:39:59.292
+!MESSAGE Missing xmlpull:xmlpull:jar:sources:1.1.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:03.322
+!MESSAGE Could not download sources for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:03.323
+!MESSAGE Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:03.323
+!MESSAGE Missing antlr:antlr:jar:sources:2.7.7
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:04.429
+!MESSAGE Classpath changed for project: 31_Welcome_MS_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:04.451
+!MESSAGE Boot project ADDED: 31_Welcome_MS_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:04.547
+!MESSAGE Classpath changed for project: 31_Welcome_MS_App
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:10.260
+!MESSAGE Could not download sources for com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:10.260
+!MESSAGE Could not resolve artifact com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:10.260
+!MESSAGE Missing com.google.guava:listenablefuture:jar:sources:9999.0-empty-to-avoid-conflict-with-guava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:12.534
+!MESSAGE Classpath changed for project: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:12.549
+!MESSAGE Boot project ADDED: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:12.628
+!MESSAGE Classpath changed for project: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:16.004
+!MESSAGE Classpath changed for project: 37_App_Properties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:16.007
+!MESSAGE Boot project ADDED: 37_App_Properties
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:24.836
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-loadbalancer:4.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:4.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:24.836
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:4.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:24.836
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:sources:4.2.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:26.341
+!MESSAGE Could not download sources for de.codecentric:spring-boot-admin-starter-server:3.4.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact de.codecentric:spring-boot-admin-starter-server:jar:sources:3.4.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing de.codecentric:spring-boot-admin-starter-server:jar:sources:3.4.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:26.341
+!MESSAGE Could not resolve artifact de.codecentric:spring-boot-admin-starter-server:jar:sources:3.4.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:26.341
+!MESSAGE Missing de.codecentric:spring-boot-admin-starter-server:jar:sources:3.4.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:28.979
+!MESSAGE Could not download sources for de.codecentric:spring-boot-admin-starter-client:3.4.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact de.codecentric:spring-boot-admin-starter-client:jar:sources:3.4.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing de.codecentric:spring-boot-admin-starter-client:jar:sources:3.4.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:28.979
+!MESSAGE Could not resolve artifact de.codecentric:spring-boot-admin-starter-client:jar:sources:3.4.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:28.979
+!MESSAGE Missing de.codecentric:spring-boot-admin-starter-client:jar:sources:3.4.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:36.555
+!MESSAGE Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:4.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:36.555
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:36.555
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:sources:4.2.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:37.010
+!MESSAGE Could not download javadoc for xmlpull:xmlpull:1.1.3.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpull:jar:javadoc:1.1.3.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing xmlpull:xmlpull:jar:javadoc:1.1.3.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:37.010
+!MESSAGE Could not resolve artifact xmlpull:xmlpull:jar:javadoc:1.1.3.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:37.010
+!MESSAGE Missing xmlpull:xmlpull:jar:javadoc:1.1.3.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:37.426
+!MESSAGE Could not download javadoc for antlr:antlr:2.7.7
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:37.426
+!MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:37.426
+!MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:37.633
+!MESSAGE Could not download javadoc for com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:37.634
+!MESSAGE Could not resolve artifact com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:37.634
+!MESSAGE Missing com.google.guava:listenablefuture:jar:javadoc:9999.0-empty-to-avoid-conflict-with-guava
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:40:38.235
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-loadbalancer:4.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:4.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:40:38.235
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:4.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:40:38.235
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-loadbalancer:jar:javadoc:4.2.0
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:40.021
+!MESSAGE Classpath changed for project: 38_SpringBatch_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:40.022
+!MESSAGE Boot project ADDED: 38_SpringBatch_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:44.938
+!MESSAGE Classpath changed for project: 30_MS_Admin_Server_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:46.614
+!MESSAGE Classpath changed for project: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:54.259
+!MESSAGE Classpath changed for project: 31_Welcome_MS_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:40:59.673
+!MESSAGE Classpath changed for project: 29_MS_Service_Registry_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:41:03.672
+!MESSAGE Classpath changed for project: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:41:04.570
+!MESSAGE Classpath changed for project: 38_SpringBatch_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:41:17.761
+!MESSAGE Classpath changed for project: 39_Spring_Security_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:41:17.771
+!MESSAGE Boot project ADDED: 39_Spring_Security_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:41:17.861
+!MESSAGE Classpath changed for project: 39_Spring_Security_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:41:23.562
+!MESSAGE Classpath changed for project: 39_Spring_Security_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:41:23.564
+!MESSAGE Boot project ADDED: 39_Spring_Security_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:41:26.104
+!MESSAGE Classpath changed for project: 39_Spring_Security_App
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:41:59.909
+!MESSAGE Could not download javadoc for de.codecentric:spring-boot-admin-starter-server:3.4.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact de.codecentric:spring-boot-admin-starter-server:jar:javadoc:3.4.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing de.codecentric:spring-boot-admin-starter-server:jar:javadoc:3.4.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:41:59.909
+!MESSAGE Could not resolve artifact de.codecentric:spring-boot-admin-starter-server:jar:javadoc:3.4.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:41:59.909
+!MESSAGE Missing de.codecentric:spring-boot-admin-starter-server:jar:javadoc:3.4.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:42:11.376
+!MESSAGE Could not download javadoc for de.codecentric:spring-boot-admin-starter-client:3.4.1
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact de.codecentric:spring-boot-admin-starter-client:jar:javadoc:3.4.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing de.codecentric:spring-boot-admin-starter-client:jar:javadoc:3.4.1
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:42:11.376
+!MESSAGE Could not resolve artifact de.codecentric:spring-boot-admin-starter-client:jar:javadoc:3.4.1
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:42:11.376
+!MESSAGE Missing de.codecentric:spring-boot-admin-starter-client:jar:javadoc:3.4.1
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:42:11.785
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:4.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:42:11.786
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:42:11.786
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:jar:javadoc:4.2.0
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 12:42:16.839
+!MESSAGE Could not download javadoc for org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:4.2.0
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:4.2.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$7(MavenImpl.java:540)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:292)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:509)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:494)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:300)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:4.2.0
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2025-02-24 12:42:16.839
+!MESSAGE Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:4.2.0
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-02-24 12:42:16.839
+!MESSAGE Missing org.springframework.cloud:spring-cloud-starter-netflix-eureka-server:jar:javadoc:4.2.0
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:22.543
+!MESSAGE Classpath changed for project: 40_SpringSecurity_Login_registration_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:22.544
+!MESSAGE Boot project ADDED: 40_SpringSecurity_Login_registration_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:28.361
+!MESSAGE Classpath changed for project: 41_SpringBoot_OAuth2.0_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:28.369
+!MESSAGE Boot project ADDED: 41_SpringBoot_OAuth2.0_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:28.436
+!MESSAGE Classpath changed for project: 41_SpringBoot_OAuth2.0_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:41.001
+!MESSAGE Classpath changed for project: 42_SpringBoot_Redis_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:41.009
+!MESSAGE Boot project ADDED: 42_SpringBoot_Redis_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:41.091
+!MESSAGE Classpath changed for project: 42_SpringBoot_Redis_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:56.423
+!MESSAGE Classpath changed for project: 43_SpringBoot_Kafka_Consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:56.433
+!MESSAGE Boot project ADDED: 43_SpringBoot_Kafka_Consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:42:56.531
+!MESSAGE Classpath changed for project: 43_SpringBoot_Kafka_Consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:43:00.475
+!MESSAGE Classpath changed for project: 43_SpringBoot_Kafka_Producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:43:00.476
+!MESSAGE Boot project ADDED: 43_SpringBoot_Kafka_Producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:44:18.076
+!MESSAGE Classpath changed for project: 43_SpringBoot_Kafka_Consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:44:18.988
+!MESSAGE Classpath changed for project: 42_SpringBoot_Redis_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:44:20.122
+!MESSAGE Classpath changed for project: 43_SpringBoot_Kafka_Producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:44:20.971
+!MESSAGE Classpath changed for project: 41_SpringBoot_OAuth2.0_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:44:21.933
+!MESSAGE Classpath changed for project: 40_SpringSecurity_Login_registration_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:49:55.915
+!MESSAGE Classpath changed for project: 44_SpringBoot_JUnit_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:49:55.916
+!MESSAGE Boot project ADDED: 44_SpringBoot_JUnit_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:49:59.174
+!MESSAGE Classpath changed for project: 44_SpringBoot_JUnit_App
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-02-24 12:50:11.604
+!MESSAGE Could not get hover region due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:149)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:225)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-02-24 12:50:12.641
+!MESSAGE Could not get hover information due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:73)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 12:56:01.497
+!MESSAGE Classpath changed for project: 44_SpringBoot_JUnit_App
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 13:07:09.641
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: input contained no data
+	at org.codehaus.plexus.util.xml.pull.MXParser.fillBuf(MXParser.java:3898)
+	at org.codehaus.plexus.util.xml.pull.MXParser.more(MXParser.java:3980)
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseProlog(MXParser.java:1774)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1757)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:627)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2025-02-24 13:07:09.641
+!MESSAGE Could not read pom.xml
+!STACK 0
+java.io.EOFException: input contained no data
+	at org.codehaus.plexus.util.xml.pull.MXParser.fillBuf(MXParser.java:3898)
+	at org.codehaus.plexus.util.xml.pull.MXParser.more(MXParser.java:3980)
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseProlog(MXParser.java:1774)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1757)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:627)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2025-02-24 13:07:10.878
+!MESSAGE Could not read pom.xml
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:245)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.io.EOFException: input contained no data
+	at org.codehaus.plexus.util.xml.pull.MXParser.fillBuf(MXParser.java:3898)
+	at org.codehaus.plexus.util.xml.pull.MXParser.more(MXParser.java:3980)
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseProlog(MXParser.java:1774)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1757)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:627)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	... 24 more
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2025-02-24 13:07:10.878
+!MESSAGE Could not read pom.xml
+!STACK 0
+java.io.EOFException: input contained no data
+	at org.codehaus.plexus.util.xml.pull.MXParser.fillBuf(MXParser.java:3898)
+	at org.codehaus.plexus.util.xml.pull.MXParser.more(MXParser.java:3980)
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseProlog(MXParser.java:1774)
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1757)
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1375)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:627)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:654)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:93)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:74)
+	at org.eclipse.m2e.core.internal.IMavenToolbox.readModel(IMavenToolbox.java:243)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:591)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:491)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:370)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:322)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:146)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:84)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:83)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:192)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:1077)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:296)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:352)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:441)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:444)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:555)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:503)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:585)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:207)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:300)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 13:07:10.959
+!MESSAGE Classpath changed for project: 44_SpringBoot_JUnit_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 13:07:10.960
+!MESSAGE Boot project REMOVED: 44_SpringBoot_JUnit_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 13:07:16.830
+!MESSAGE Classpath changed for project: 44_SpringBoot_JUnit_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 13:07:16.835
+!MESSAGE Boot project ADDED: 44_SpringBoot_JUnit_App
+!SESSION 2025-02-24 14:04:22.107 -----------------------------------------------
+eclipse.buildId=4.25.0.202409101855
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2025-02-24 14:05:20.766
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-02-24 14:05:36.358
+!MESSAGE Logback config file: D:\SpringBoot--Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-02-24 14:05:37.531
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-02-24 14:05:37.531
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-02-24 14:05:38.173
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-02-24 14:05:38.173
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-24 14:05:49.810
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\sts-4.25.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/SpringBoot--Workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1740386149808
+-Dlanguageserver.hover-timeout=225
+-jar
+D:\sts-4.25.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.57.0.202409101848\servers\spring-boot-language-server\spring-boot-language-server-1.57.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:49.810
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-24 14:05:50.003
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 7608
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-02-24 14:05:58.207
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Umesh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.396
+!MESSAGE Boot project ADDED: 01_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.402
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.410
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.454
+!MESSAGE Boot project ADDED: 02_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.470
+!MESSAGE Boot project ADDED: 02_Spring_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.502
+!MESSAGE Boot project ADDED: 03_Spring_IOC_DI_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.516
+!MESSAGE Boot project ADDED: 04_AutoWiring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.529
+!MESSAGE Boot project ADDED: 05_IOC_DI_Autowiring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.605
+!MESSAGE Boot project ADDED: 06.1_SpringJDBC_Assignment_App_Pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.643
+!MESSAGE Boot project ADDED: 06_SpringJDBC_Assignment_App2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.670
+!MESSAGE Boot project ADDED: 06_SpringJDBC_Assignment_App_pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.672
+!MESSAGE Boot project ADDED: 08_SpringBoo_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.683
+!MESSAGE Boot project ADDED: 09_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.695
+!MESSAGE Boot project ADDED: 09_SpringBoot_DataJPA_JpaRepo_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.708
+!MESSAGE Boot project ADDED: 10_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.721
+!MESSAGE Boot project ADDED: 11_SpringBoot_DataJPA_CustomGenerators_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.726
+!MESSAGE Boot project ADDED: 12_SpringBoot_DataJPA_H2_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.728
+!MESSAGE Boot project ADDED: 13_SpringBoot_DataJPA_TxMngment_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.730
+!MESSAGE Boot project ADDED: 14_SpringBoot_DataJPA_OneToOne_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.732
+!MESSAGE Boot project ADDED: 15_SpringBoot_DataJPA_OneToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.736
+!MESSAGE Boot project ADDED: 16_SpringBoot_DataJPA_ManyToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.740
+!MESSAGE Boot project ADDED: 17_SpringBoot_WebMVC_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.750
+!MESSAGE Boot project ADDED: 17_SpringBoot_WebMVC_App1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.752
+!MESSAGE Boot project ADDED: 18_SpringBoot_WebMVC_App2_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.756
+!MESSAGE Boot project ADDED: 19_SpringBoot_WebMVC_App3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.756
+!MESSAGE Boot project ADDED: 20_SpringBoot_WebMVC_HttpSession_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.760
+!MESSAGE Boot project ADDED: 20_SpringBoot_WebMVC_Session_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.762
+!MESSAGE Boot project ADDED: 21_SpringBoot_Email_Sending_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.766
+!MESSAGE Boot project ADDED: 23_SpringBoot_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.768
+!MESSAGE Boot project ADDED: 24_SpringBoot_Product_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.772
+!MESSAGE Boot project ADDED: 25_SpringBoot_RestAPI_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.780
+!MESSAGE Boot project ADDED: 25_SpringBoot_Rest_API_DataJPA_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.782
+!MESSAGE Boot project ADDED: 26_SpringBoot_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.782
+!MESSAGE Boot project ADDED: 27_SB_WebClient_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.784
+!MESSAGE Boot project ADDED: 28_SB_RestApi_Ex_Handling_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.784
+!MESSAGE Boot project ADDED: 29_MS_Service_Registry_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.784
+!MESSAGE Boot project ADDED: 30_MS_Admin_Server_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.786
+!MESSAGE Boot project ADDED: 31_Welcome_MS_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.792
+!MESSAGE Boot project ADDED: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.795
+!MESSAGE Boot project ADDED: 37_App_Properties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.796
+!MESSAGE Boot project ADDED: 38_SpringBatch_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.796
+!MESSAGE Boot project ADDED: 39_Spring_Security_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.801
+!MESSAGE Boot project ADDED: 39_Spring_Security_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.803
+!MESSAGE Boot project ADDED: 40_SpringSecurity_Login_registration_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.804
+!MESSAGE Boot project ADDED: 41_SpringBoot_OAuth2.0_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.806
+!MESSAGE Boot project ADDED: 42_SpringBoot_Redis_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.808
+!MESSAGE Boot project ADDED: 43_SpringBoot_Kafka_Consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.812
+!MESSAGE Boot project ADDED: 43_SpringBoot_Kafka_Producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-24 14:05:58.814
+!MESSAGE Boot project ADDED: 44_SpringBoot_JUnit_App
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-24 14:06:31.126
+!MESSAGE executing callback sts4.classpath.DrTSNwpA FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2025-02-24 14:06:31.127
+!MESSAGE TimeoutException
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:31)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2025-02-25 09:54:10.631 -----------------------------------------------
+eclipse.buildId=4.25.0.202409101855
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2025-02-25 09:56:10.937
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-02-25 09:56:33.278
+!MESSAGE Logback config file: D:\SpringBoot--Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-02-25 09:56:34.002
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-02-25 09:56:34.002
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-02-25 09:56:34.463
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-02-25 09:56:34.463
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-02-25 09:56:39.595
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Umesh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:39.886
+!MESSAGE Boot project ADDED: 01_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:39.887
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:39.959
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:39.965
+!MESSAGE Boot project ADDED: 02_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:39.972
+!MESSAGE Boot project ADDED: 02_Spring_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:39.980
+!MESSAGE Boot project ADDED: 03_Spring_IOC_DI_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:39.988
+!MESSAGE Boot project ADDED: 04_AutoWiring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.009
+!MESSAGE Boot project ADDED: 05_IOC_DI_Autowiring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.029
+!MESSAGE Boot project ADDED: 06.1_SpringJDBC_Assignment_App_Pratice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-25 09:56:40.044
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\sts-4.25.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/SpringBoot--Workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1740457600042
+-Dlanguageserver.hover-timeout=225
+-jar
+D:\sts-4.25.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.57.0.202409101848\servers\spring-boot-language-server\spring-boot-language-server-1.57.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.045
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.068
+!MESSAGE Boot project ADDED: 06_SpringJDBC_Assignment_App2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.088
+!MESSAGE Boot project ADDED: 06_SpringJDBC_Assignment_App_pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.111
+!MESSAGE Boot project ADDED: 08_SpringBoo_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.135
+!MESSAGE Boot project ADDED: 09_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-25 09:56:40.141
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 2124
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.166
+!MESSAGE Boot project ADDED: 09_SpringBoot_DataJPA_JpaRepo_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.194
+!MESSAGE Boot project ADDED: 10_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.219
+!MESSAGE Boot project ADDED: 11_SpringBoot_DataJPA_CustomGenerators_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.264
+!MESSAGE Boot project ADDED: 12_SpringBoot_DataJPA_H2_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.286
+!MESSAGE Boot project ADDED: 13_SpringBoot_DataJPA_TxMngment_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.307
+!MESSAGE Boot project ADDED: 14_SpringBoot_DataJPA_OneToOne_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.574
+!MESSAGE Boot project ADDED: 15_SpringBoot_DataJPA_OneToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.576
+!MESSAGE Boot project ADDED: 16_SpringBoot_DataJPA_ManyToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.578
+!MESSAGE Boot project ADDED: 17_SpringBoot_WebMVC_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.579
+!MESSAGE Boot project ADDED: 17_SpringBoot_WebMVC_App1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.581
+!MESSAGE Boot project ADDED: 18_SpringBoot_WebMVC_App2_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.582
+!MESSAGE Boot project ADDED: 19_SpringBoot_WebMVC_App3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.584
+!MESSAGE Boot project ADDED: 20_SpringBoot_WebMVC_HttpSession_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.585
+!MESSAGE Boot project ADDED: 20_SpringBoot_WebMVC_Session_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.587
+!MESSAGE Boot project ADDED: 21_SpringBoot_Email_Sending_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.589
+!MESSAGE Boot project ADDED: 23_SpringBoot_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.592
+!MESSAGE Boot project ADDED: 24_SpringBoot_Product_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.593
+!MESSAGE Boot project ADDED: 25_SpringBoot_RestAPI_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.593
+!MESSAGE Boot project ADDED: 25_SpringBoot_Rest_API_DataJPA_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.595
+!MESSAGE Boot project ADDED: 26_SpringBoot_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.596
+!MESSAGE Boot project ADDED: 27_SB_WebClient_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.596
+!MESSAGE Boot project ADDED: 28_SB_RestApi_Ex_Handling_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.597
+!MESSAGE Boot project ADDED: 29_MS_Service_Registry_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.598
+!MESSAGE Boot project ADDED: 30_MS_Admin_Server_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.599
+!MESSAGE Boot project ADDED: 31_Welcome_MS_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.600
+!MESSAGE Boot project ADDED: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.601
+!MESSAGE Boot project ADDED: 37_App_Properties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.601
+!MESSAGE Boot project ADDED: 38_SpringBatch_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.602
+!MESSAGE Boot project ADDED: 39_Spring_Security_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.603
+!MESSAGE Boot project ADDED: 39_Spring_Security_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.603
+!MESSAGE Boot project ADDED: 40_SpringSecurity_Login_registration_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.604
+!MESSAGE Boot project ADDED: 41_SpringBoot_OAuth2.0_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.605
+!MESSAGE Boot project ADDED: 42_SpringBoot_Redis_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.605
+!MESSAGE Boot project ADDED: 43_SpringBoot_Kafka_Consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.607
+!MESSAGE Boot project ADDED: 43_SpringBoot_Kafka_Producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-25 09:56:40.609
+!MESSAGE Boot project ADDED: 44_SpringBoot_JUnit_App
+!SESSION 2025-02-26 15:18:08.777 -----------------------------------------------
+eclipse.buildId=4.25.0.202409101855
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2025-02-26 15:19:09.733
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-02-26 15:25:45.792
+!MESSAGE Logback config file: D:\SpringBoot--Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-02-26 15:25:46.522
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-02-26 15:25:46.522
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-02-26 15:25:46.871
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-02-26 15:25:46.871
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2025-02-26 15:25:52.646
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Umesh'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.830
+!MESSAGE Boot project ADDED: 01_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.831
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.884
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.899
+!MESSAGE Boot project ADDED: 02_Spring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.914
+!MESSAGE Boot project ADDED: 02_Spring_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.920
+!MESSAGE Boot project ADDED: 03_Spring_IOC_DI_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.928
+!MESSAGE Boot project ADDED: 04_AutoWiring_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.938
+!MESSAGE Boot project ADDED: 05_IOC_DI_Autowiring
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.964
+!MESSAGE Boot project ADDED: 06.1_SpringJDBC_Assignment_App_Pratice
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-26 15:25:52.973
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\sts-4.25.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/SpringBoot--Workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1740563752972
+-Dlanguageserver.hover-timeout=225
+-jar
+D:\sts-4.25.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.57.0.202409101848\servers\spring-boot-language-server\spring-boot-language-server-1.57.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.974
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:52.997
+!MESSAGE Boot project ADDED: 06_SpringJDBC_Assignment_App2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.052
+!MESSAGE Boot project ADDED: 06_SpringJDBC_Assignment_App_pratice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.076
+!MESSAGE Boot project ADDED: 08_SpringBoo_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.106
+!MESSAGE Boot project ADDED: 09_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-02-26 15:25:53.114
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17176
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.161
+!MESSAGE Boot project ADDED: 09_SpringBoot_DataJPA_JpaRepo_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.188
+!MESSAGE Boot project ADDED: 10_SpringBoot_DataJPA_JpaRepo_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.214
+!MESSAGE Boot project ADDED: 11_SpringBoot_DataJPA_CustomGenerators_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.245
+!MESSAGE Boot project ADDED: 12_SpringBoot_DataJPA_H2_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.268
+!MESSAGE Boot project ADDED: 13_SpringBoot_DataJPA_TxMngment_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.298
+!MESSAGE Boot project ADDED: 14_SpringBoot_DataJPA_OneToOne_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.316
+!MESSAGE Boot project ADDED: 15_SpringBoot_DataJPA_OneToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.334
+!MESSAGE Boot project ADDED: 16_SpringBoot_DataJPA_ManyToMany_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.361
+!MESSAGE Boot project ADDED: 17_SpringBoot_WebMVC_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.384
+!MESSAGE Boot project ADDED: 17_SpringBoot_WebMVC_App1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.425
+!MESSAGE Boot project ADDED: 18_SpringBoot_WebMVC_App2_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.449
+!MESSAGE Boot project ADDED: 19_SpringBoot_WebMVC_App3
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.468
+!MESSAGE Boot project ADDED: 20_SpringBoot_WebMVC_HttpSession_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.498
+!MESSAGE Boot project ADDED: 20_SpringBoot_WebMVC_Session_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.526
+!MESSAGE Boot project ADDED: 21_SpringBoot_Email_Sending_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.545
+!MESSAGE Boot project ADDED: 23_SpringBoot_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.546
+!MESSAGE Boot project ADDED: 24_SpringBoot_Product_Rest_API
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.547
+!MESSAGE Boot project ADDED: 25_SpringBoot_RestAPI_DataJPA_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.548
+!MESSAGE Boot project ADDED: 25_SpringBoot_Rest_API_DataJPA_App_Practice
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.550
+!MESSAGE Boot project ADDED: 26_SpringBoot_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.551
+!MESSAGE Boot project ADDED: 27_SB_WebClient_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.552
+!MESSAGE Boot project ADDED: 28_SB_RestApi_Ex_Handling_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.553
+!MESSAGE Boot project ADDED: 29_MS_Service_Registry_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.553
+!MESSAGE Boot project ADDED: 30_MS_Admin_Server_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.554
+!MESSAGE Boot project ADDED: 31_Welcome_MS_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.556
+!MESSAGE Boot project ADDED: 36_Circuit_Breaker
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.557
+!MESSAGE Boot project ADDED: 37_App_Properties
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.558
+!MESSAGE Boot project ADDED: 38_SpringBatch_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.559
+!MESSAGE Boot project ADDED: 39_Spring_Security_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.560
+!MESSAGE Boot project ADDED: 39_Spring_Security_Consumer_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.561
+!MESSAGE Boot project ADDED: 40_SpringSecurity_Login_registration_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.561
+!MESSAGE Boot project ADDED: 41_SpringBoot_OAuth2.0_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.563
+!MESSAGE Boot project ADDED: 42_SpringBoot_Redis_App
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.565
+!MESSAGE Boot project ADDED: 43_SpringBoot_Kafka_Consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.566
+!MESSAGE Boot project ADDED: 43_SpringBoot_Kafka_Producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-26 15:25:53.568
+!MESSAGE Boot project ADDED: 44_SpringBoot_JUnit_App

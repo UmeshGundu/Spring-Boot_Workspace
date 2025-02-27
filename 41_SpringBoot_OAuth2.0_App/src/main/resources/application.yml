@@ -1,0 +1,8 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github: #specify which company :google,fb....
+            clientId: Ov23li2yKskQ8ELi3peP 
+            clientSecret: b624b767e62c02392e2e7694594d65d7922009e4

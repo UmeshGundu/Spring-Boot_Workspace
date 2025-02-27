@@ -1,0 +1,12 @@
+package in.ashokit.beans;
+
+public class PetrolEngine {
+
+	public PetrolEngine() {
+		System.out.println("PetrolEngine::Constructor");
+	}
+
+	
+	
+	
+}
